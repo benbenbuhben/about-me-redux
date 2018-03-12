@@ -1,0 +1,23 @@
+* {
+  background-color: powderblue;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-style: italic;
+}
+
+img {
+  border-radius: 200px;
+  border-style: solid;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
